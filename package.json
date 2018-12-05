@@ -1,0 +1,11 @@
+{
+  "name": "faketodo",
+  "version": "1.0.0",
+  "description": "Testing of todo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Francesco Frazzetto",
+  "license": "MIT"
+}
